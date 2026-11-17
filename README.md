@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="Afonso's GitHub Banner">
+</p>
+
+
 # Hi, I'm Afonso! 👋
 
 I'm a student based in Porto, Portugal, interested in technology, learning new skills, and building practical projects.
